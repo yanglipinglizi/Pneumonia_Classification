@@ -19,4 +19,6 @@ Fine-tuned the model by updating weights through backpropagation, adjusting the 
 
 ## 3. Result
 The Threshold used here is 0.25 (min false negatives)
-![Confusion Matrix](Confusion_Matrix.png)
+<p align="center">
+  <img src="Confusion_Matrix.png" alt="VGG-16 Blocks" width="500"/>
+</p>
